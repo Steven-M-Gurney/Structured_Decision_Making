@@ -2,7 +2,7 @@
 
 ### [Steven Gurney](https://linktr.ee/stevenmgurney), [Selena Creed]()
 
-### Manuscript: Airfield Operations Department–Wildlife Division, Special Publication No. 25-05. Wayne County Airport Authority, Detroit, MI, USA.
+### Manuscript: Airfield Operations Department–Wildlife Division, Special Publication No. 25-04. Wayne County Airport Authority, Detroit, MI, USA.
 
 ### Manuscript available here: 
 
