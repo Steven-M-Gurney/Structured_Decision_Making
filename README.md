@@ -6,7 +6,7 @@
 
 ### Manuscript available here: 
 
-### Data: All data used in this code are provided here.
+### Data: All data used in this study are provided here.
 
 #### Please contact the first author for questions about the code or data: Steven M. Gurney (stevenmgurney@gmail.com)
 __________________________________________________________________________________________________________________________________________
