@@ -18,7 +18,7 @@ ________________________________________________________________________________
 ## Repository Directory
 
 
-### [Rankings.csv](./Rankings.csv): 
+### [Rankings.csv](./Rankings.csv): Relative-ranking data used in the structured decison-making model.
 
 ### [SDM.R](./SDM.R): Code for running structured decision-making analyses and producing results tables.
 
