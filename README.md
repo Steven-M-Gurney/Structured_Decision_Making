@@ -22,7 +22,7 @@ ________________________________________________________________________________
 
 ### [Weights.csv](./Weights.csv): User-defined weights used in the weighted structured decison-making model.
 
-### [SDM.R](./SDM.R): Code for running structured decision-making analyses and producing results tables.
+### [SDM.R](./SDM.R): Code for running structured decision-making analyses and producing results and visuals.
 
 ### [Normalized_baseline_results.csv](./Normalized_baseline_results.csv): Normalized baseline results produced by the SDM equal-weights model.
 
