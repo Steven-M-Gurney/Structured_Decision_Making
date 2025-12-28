@@ -28,5 +28,7 @@ ________________________________________________________________________________
 
 ### [Normalized_weighted_results.csv](./Normalized_weighted_results.csv): Normalized weighted results produced by the SDM weighted model. 
 
+
 ## Supplemental Information
-* Relative [video presentation](https://youtu.be/CAUvHTNuZgo) given to AAAE Wildlife Management and BSC USA Operations and Policy Committee working group.
+
+### [Fish_Presentation.pdf](./Fish_Presentation.pdf): Relative presentation given to DTW's Pond and Fish Management Workgroup and project partners, April 2025.
