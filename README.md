@@ -24,6 +24,6 @@ ________________________________________________________________________________
 
 ### [SDM.R](./SDM.R): Code for running structured decision-making analyses and producing results tables.
 
-### [Normalized_baseline_results.csv](./Normalized_baseline_results.csv): Model results for the unweighted, baseline utility scores of management alternatives.
+### [Normalized_baseline_results.csv](./Normalized_baseline_results.csv): Normalized baseline results produced by the SDM equal-weights model.
 
-### [Normalized_weighted_results.csv](./Normalized_weighted_results.csv): Model results for the weighted utility scores of management alternatives.
+### [Normalized_weighted_results.csv](./Normalized_weighted_results.csv): Normalized weighted results produced by the SDM weighted model. 
