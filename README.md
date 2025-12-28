@@ -20,6 +20,8 @@ ________________________________________________________________________________
 
 ### [Rankings.csv](./Rankings.csv): Relative-ranking data used in the structured decison-making model.
 
+### [Weights.csv](.Weights.csv): User-defined weights used in the weighted structured decison-making model.
+
 ### [SDM.R](./SDM.R): Code for running structured decision-making analyses and producing results tables.
 
 ### [Baseline_utility_scores.csv](./Baseline_utility_scores.csv): Model results for the unweighted, baseline utility scores of management alternatives.
