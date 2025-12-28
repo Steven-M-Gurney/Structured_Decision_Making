@@ -27,3 +27,6 @@ ________________________________________________________________________________
 ### [Normalized_baseline_results.csv](./Normalized_baseline_results.csv): Normalized baseline results produced by the SDM equal-weights model.
 
 ### [Normalized_weighted_results.csv](./Normalized_weighted_results.csv): Normalized weighted results produced by the SDM weighted model. 
+
+## Supplemental Information
+* Relative [video presentation](https://youtu.be/CAUvHTNuZgo) given to AAAE Wildlife Management and BSC USA Operations and Policy Committee working group.
