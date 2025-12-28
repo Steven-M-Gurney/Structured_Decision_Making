@@ -18,11 +18,11 @@ ________________________________________________________________________________
 ## Repository Directory
 
 
-### [Rankings.csv](./Rankings.csv): Relative-ranking data used in the structured decison-making model.
+### [Rankings.csv](./Rankings.csv): Relative-ranking data used in the structured decison-making (SDM) model.
 
-### [Weights.csv](./Weights.csv): User-defined weights used in the weighted structured decison-making model.
+### [Weights.csv](./Weights.csv): User-defined weights used in the weighted SDM model.
 
-### [SDM.R](./SDM.R): Code for running structured decision-making analyses and producing results, including visuals.
+### [SDM.R](./SDM.R): Code for running SDM analyses and producing results, including visuals.
 
 ### [Normalized_baseline_results.csv](./Normalized_baseline_results.csv): Normalized baseline results produced by the SDM equal-weights model.
 
