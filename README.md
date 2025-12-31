@@ -12,7 +12,7 @@
 __________________________________________________________________________________________________________________________________________
 
 ## Summary
-
+Invasive goldfish (*Carassius auratus*) in stormwater ponds at Detroit Metropolitan Wayne County Airport (DTW) create a wildlife-hazard risk by attracting fish-eating birds strongly associated with damaging aircraft strikes. To identify the most effective and feasible management strategy, the Wayne County Airport Authority Wildlife Division led a structured decision-making process that compared pond- and fish-management alternatives across effectiveness, cost, feasibility, liability, and wildlife-strike risk. Rotenone chemical treatment emerged as the most effective near-term option—performing roughly 2–3× better than common mechanical methods—while long-term prevention likely depends on pond-design improvements that prevent fish persistence. Because natural recolonization is likely over time, monitoring and adaptive management are essential. This project demonstrates a transparent, science-based framework to guide aviation-safety decisions at DTW and other airports facing similar aquatic-habitat challenges.
 __________________________________________________________________________________________________________________________________________
 
 ## Repository Directory
