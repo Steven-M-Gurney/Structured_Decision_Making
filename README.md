@@ -1,4 +1,4 @@
-# Structured decision-making analysis of fish management and wildlife hazard reduction at DTW
+# Structured decision making for aquatic systems management and wildlife-hazard reduction at DTW
 
 ### [Steven Gurney](https://linktr.ee/stevenmgurney), [Selena Creed]()
 
